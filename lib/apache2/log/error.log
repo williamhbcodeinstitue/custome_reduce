@@ -1,0 +1,3 @@
+[Tue Apr 23 08:29:36.869750 2019] [mpm_prefork:notice] [pid 3159] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Apr 23 08:29:36.869887 2019] [core:notice] [pid 3159] AH00094: Command line: 'apache2'
+[Tue Apr 23 08:29:38.137158 2019] [core:info] [pid 3178] [client 10.240.1.97:48656] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://custom-reduce-willb91.c9users.io/dc-average.html
